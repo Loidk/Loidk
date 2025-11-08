@@ -1,5 +1,5 @@
 # ABOUT ME
-- Cybersecurity Enthusiast
+- Reverse Engineering Enthusiast
 - Rhythm Game Enthusiast
 - I Like Curren chan
 
