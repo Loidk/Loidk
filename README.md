@@ -3,14 +3,14 @@
 
 💻 **Cybersecurity & C++ Enthusiast**  
 I’m passionate about securing systems, breaking things ethically, and building them back stronger.  
-Currently exploring the world of **penetration testing**, **network security**, and **ethical hacking**.
+Currently exploring the world of **penetration testing**, **reverse engineering**, **network security**, and **ethical hacking**.
 
 ---
 
 ### 🧠 What I'm Learning
 - 🧩 C++ programming and data structures  
 - 🔐 Cybersecurity fundamentals (OWASP, Kali Linux, Wireshark)  
-- ☁️ Basic cloud and network security concepts  
+- ☁️ Basic cloud and network security concepts
 
 ---
 
