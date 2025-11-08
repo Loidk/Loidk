@@ -1,4 +1,3 @@
-# profile
 # ABOUT ME
 - Cybersecurity Enthusiast
 - Rhythm Game Enthusiast
