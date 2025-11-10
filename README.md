@@ -1,4 +1,4 @@
-<!-- 🌸 Curren Chan Themed GitHub Profile by Loidk 🌸 -->
+
 
 <h1 align="center">💖 Hi~ I'm Loidk 💖</h1>
 <h3 align="center">Reverse Engineering & Rhythm Game Enthusiast 🎮✨</h3>
@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/xl9WhiY.png" width="400" alt="Curren Chan Aesthetic Banner"/>
+  <img src="https://media1.tenor.com/m/bGPicAAEAAAAd/curren-chan-uma-musume.gif" width="400" alt="Curren Chan Banner GIF"/>
 </p>
 
 <p align="center">
