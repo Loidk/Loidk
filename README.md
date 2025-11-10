@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats (Curren-Style)
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=loidk&show_icons=true&theme=tokyonight&title_color=ff9ecb&icon_color=ffb6d9&text_color=cdd9e5&bg_color=141321" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loidk&layout=compact&theme=tokyonight&title_color=ff9ecb&text_color=cdd9e5&bg_color=141321" alt="Top Langs"/>
@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/bGPicAAEAAAAd/curren-chan-uma-musume.gif" width="400" alt="Curren Chan Banner GIF"/>
+  <img src="https://media1.tenor.com/m/lRHaXwJoebQAAAAd/%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%81%E3%83%A3%E3%83%B3-%E3%81%86%E3%81%BE%E3%81%B4%E3%82%87%E3%81%84.gif" width="400" alt="Curren Chan Banner GIF"/>
 </p>
 
 <p align="center">
