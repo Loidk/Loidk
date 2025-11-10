@@ -43,7 +43,7 @@
 
 ### 🌸 Profile Views:
 <p align="center">
-  <img src="https://count.getloli.com/@loidk?theme=moebooru" alt="Profile Views Counter"/>
+  <img src="https://count.getloli.com/@loidk?theme=rule34" alt="Profile Views Counter"/>
 </p>
 
 ---
